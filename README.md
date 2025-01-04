@@ -15,9 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Walkthrough Video]](https://drive.google.com/file/d/1V30GH8MfixoK4FtkCMkwL8qhKfk1q1h1/view?usp=sharing) .
+[Walkthrough Video](https://drive.google.com/file/d/1V30GH8MfixoK4FtkCMkwL8qhKfk1q1h1/view?usp=sharing) .
 
 ## App Brainstorming (Step 4)
 **Spotify**
